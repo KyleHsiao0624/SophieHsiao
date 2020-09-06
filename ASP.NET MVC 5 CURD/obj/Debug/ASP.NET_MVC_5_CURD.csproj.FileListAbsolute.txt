@@ -1,0 +1,54 @@
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\csc.exe
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\csc.exe.config
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\csc.rsp
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\csi.exe
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\csi.rsp
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\System.AppContext.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\vbc.exe
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\vbc.exe.config
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\vbc.rsp
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\VBCSCompiler.exe
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\ASP.NET MVC 5 CURD.dll.config
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\ASP.NET MVC 5 CURD.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\ASP.NET MVC 5 CURD.pdb
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\Antlr3.Runtime.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\Newtonsoft.Json.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\System.Web.Helpers.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\System.Web.Mvc.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\System.Web.Optimization.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\System.Web.Razor.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\System.Web.WebPages.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\System.Web.WebPages.Razor.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\WebGrease.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\Antlr3.Runtime.pdb
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\Newtonsoft.Json.xml
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\System.Web.Helpers.xml
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\System.Web.Mvc.xml
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\System.Web.Optimization.xml
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\System.Web.Razor.xml
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\System.Web.WebPages.xml
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\bin\System.Web.WebPages.Razor.xml
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\obj\Debug\ASP.NET_MVC_5_CURD.csprojResolveAssemblyReference.cache
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\obj\Debug\ASP.NET MVC 5 CURD.dll
+C:\Users\凱元\Documents\Visual Studio 2015\Projects\ASP.NET MVC 5 CURD\ASP.NET MVC 5 CURD\obj\Debug\ASP.NET MVC 5 CURD.pdb
