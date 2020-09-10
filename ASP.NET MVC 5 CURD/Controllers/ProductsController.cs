@@ -17,7 +17,12 @@ namespace ASP.NET_MVC_5_CURD.Controllers
         // GET: Products
         public ActionResult Index()
         {
-            return View(db.Products.ToList());
+            IEnumerable<Products> result = null;
+            using (var dbb = new ProductsContext())
+            {
+                result = dbb.Products.AsNoTracking().ToList();
+            }
+            return View(result);
         }
 
         // GET: Products/Details/5
