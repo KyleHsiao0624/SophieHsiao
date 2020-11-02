@@ -9,7 +9,7 @@
 
 ### 
 
-<img src="
-https://b.ecimg.tw/items/DYAJDFA900AXEDV/000001_1602748386.jpg" width="50%"  >
+<img src="https://b.ecimg.tw/items/DYAJDFA900AXEDV/000001_1602748386.jpg" width="50%"  alt="" />
+
 兩週年禮物夠不驚奇吧~
 
