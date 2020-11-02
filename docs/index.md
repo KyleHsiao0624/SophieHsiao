@@ -1,6 +1,6 @@
 ## Welcome to Sophie Pages
 
-<img src="https://ptt.cc/fzDTHz" attr="https://repository-images.githubusercontent.com/293299392/f6490980-12be-11eb-94ac-d440f39a50eb" alt="Girl in a jacket" >
+<img src="https://i.imgur.com/p6qlowX.jpg" attr="https://repository-images.githubusercontent.com/293299392/f6490980-12be-11eb-94ac-d440f39a50eb" alt="Girl in a jacket" >
 
 ### Markdown
 - Fart clothes
