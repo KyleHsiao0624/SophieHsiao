@@ -8,7 +8,8 @@
 - 十二禮不知道剩什麼，但是你要的需求不能少:)
 
 ### 
+
 <img src="
-https://b.ecimg.tw/items/DYAJDFA900AXEDV/000001_1602748386.jpg" width="80%" alt="Girl in a jacket" >
-Mom.
+https://b.ecimg.tw/items/DYAJDFA900AXEDV/000001_1602748386.jpg" width="50%"  >
+兩週年禮物夠不驚奇吧~
 
